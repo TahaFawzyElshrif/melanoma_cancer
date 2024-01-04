@@ -1,5 +1,6 @@
 # Melonama cancer diagonstices
 
+
 ## about
 Project is about diagonstices of melanoma cancer (skin cancer) to benign/malignent ,usingbig image dataset 
 
@@ -85,7 +86,11 @@ del(data)
 
 
 
-
+## team
+Taha fawzy,Mostafa hussien ,Andrew Zakaria fawzy,
+Omar Ahmed taha,Ahmed Ibrahim hassan ,
+Mohab emad ,Ahmed ali ,Adham abdelsalam mohammed 
+Omar tarek Mahmoud 
 
 ### project data https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images
 
